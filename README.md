@@ -1,4 +1,4 @@
 # projetoAdivinharNumeros
-È um projeto JavaScript para alimentar um pequeno jogo de adivinhação.
+Projeto em JavaScript para alimentar um pequeno jogo de adivinhação.
 
 https://felpsg.github.io/projetoAdivinharNumeros/
